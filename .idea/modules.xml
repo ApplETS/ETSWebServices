@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SignetsWebServices.iml" filepath="$PROJECT_DIR$/SignetsWebServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETSWebServices.iml" filepath="$PROJECT_DIR$/ETSWebServices.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/etsmtl-signets-webservices/etsmtl-signets-webservices.iml" filepath="$PROJECT_DIR$/etsmtl-signets-webservices/etsmtl-signets-webservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etsmtl-webservices-core/etsmtl-webservices-core.iml" filepath="$PROJECT_DIR$/etsmtl-webservices-core/etsmtl-webservices-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etsmtl-webservices-directory/etsmtl-webservices-directory.iml" filepath="$PROJECT_DIR$/etsmtl-webservices-directory/etsmtl-webservices-directory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etsmtl-webservices-signets/etsmtl-webservices-signets.iml" filepath="$PROJECT_DIR$/etsmtl-webservices-signets/etsmtl-webservices-signets.iml" />
     </modules>
   </component>
 </project>

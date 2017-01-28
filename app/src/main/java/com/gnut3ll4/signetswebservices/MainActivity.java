@@ -1,12 +1,12 @@
 package com.gnut3ll4.signetswebservices;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
-import com.gnut3ll4.signetswebservices.soap.OperationResult;
-import com.gnut3ll4.signetswebservices.soap.SignetsMobileSoap;
-import com.gnut3ll4.signetswebservices.soap.IServiceEvents;
+import ca.etsmtl.applets.etswebservices.core.soap.IServiceEvents;
+import ca.etsmtl.applets.etswebservices.core.soap.OperationResult;
+import ca.etsmtl.applets.etswebservices.signets.soap.SignetsMobileSoap;
 
 
 public class MainActivity extends AppCompatActivity implements IServiceEvents {
